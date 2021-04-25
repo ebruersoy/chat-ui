@@ -6,6 +6,8 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 In the project directory, you can run:
 
-### `docker-compose up -d`
+```shell
+ docker-compose up -d
+ ```
 
-Then open http://localhost:3000
+Then open http://localhost:3000/ in the browser.
